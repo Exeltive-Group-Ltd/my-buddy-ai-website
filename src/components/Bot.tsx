@@ -47,7 +47,7 @@ export type BotProps = {
   observersConfig?: observersConfigType;
 };
 
-const defaultWelcomeMessage = 'Hi there! How can I help?';
+const defaultWelcomeMessage = 'Hi there! How can My-Buddy.AI help?';
 
 /*const sourceDocuments = [
     {
